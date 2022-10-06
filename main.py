@@ -1,0 +1,2 @@
+print('omg shes insane')
+#Depois de fazer alteração em main.py da branch “desenvolvimento” o botão “Commit All & Push” fica habilitado. Note que você pode adicionar um comentário do que foi alterado no código (isso é muito útil).
